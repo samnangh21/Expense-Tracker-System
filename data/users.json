@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "username": "admin",
+        "password_hash": "aa0bcbed7471c92f38ba9efb0fc01de82a97ec6a46408469d1cc521f9e686f26",
+        "salt": "f2f66b8d36c99416f8183a502e0a0313",
+        "role": "admin",
+        "created_at": "2026-09-26"
+    },
+    {
+        "user_id": 2,
+        "username": "1_samnang",
+        "password_hash": "3484815cdc5a5ad2f7304cf145578f6d9b4751d2a1183511f64567cc336f733d",
+        "salt": "73e402f212ea065e8e7cd64a695d8f58",
+        "role": "user",
+        "created_at": "2026-09-26"
+    }
+]

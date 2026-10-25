@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Salary",
+        "type": "income"
+    },
+    {
+        "name": "Business",
+        "type": "income"
+    },
+    {
+        "name": "Gift",
+        "type": "income"
+    },
+    {
+        "name": "Food",
+        "type": "expense"
+    },
+    {
+        "name": "Transport",
+        "type": "expense"
+    },
+    {
+        "name": "Shopping",
+        "type": "expense"
+    },
+    {
+        "name": "Bills",
+        "type": "expense"
+    },
+    {
+        "name": "Entertainment",
+        "type": "expense"
+    },
+    {
+        "name": "Other",
+        "type": "expense"
+    },
+    {
+        "name": "Freelance Job",
+        "type": "income"
+    },
+    {
+        "name": "Selling",
+        "type": "income"
+    },
+    {
+        "name": "Other",
+        "type": "income"
+    }
+]
