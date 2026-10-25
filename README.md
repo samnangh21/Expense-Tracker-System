@@ -110,6 +110,3 @@ Dates are stored and displayed in `DD-MM-YYYY` format.
 - This is a learning project built for a Python fundamentals course. Password hashing uses `hashlib`/`pbkdf2_hmac`, which is appropriate for coursework but not a substitute for production-grade authentication systems.
 - Terminal output uses the [`rich`](https://github.com/Textualize/rich) library for colors, tables, and panels. For best results, run in a modern terminal (e.g. Windows Terminal) rather than the legacy PowerShell console host.
 
-## Author
-
-Student project for a Python fundamentals course, built as part of a phased development process: planning, requirement analysis, system design, and iterative development.
